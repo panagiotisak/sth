@@ -1,0 +1,63 @@
+h1{
+    background-color: magenta;
+}
+a:hover {
+    text-decoration: underline;
+}
+a{
+    color: rgba(0,0,0,0.87);
+    cursor: pointer;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    font-stretch: 100%;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    height: 24px;
+    line-height: 24px;
+    text-decoration-color: rgba(0,0,0,0.87);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 3.9531px;
+    
+
+
+
+}
+.icon{
+    width: 25px;
+    height: 25px;
+}
+.button{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+
+}
+
+.button:hover{
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+
+.language a{
+    color: #1a0dab;
+}
