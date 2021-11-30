@@ -58,6 +58,12 @@ a{
     color: #202124;
 }
 
-.language a{
+a.language {
     color: #1a0dab;
 }
+
+.id{
+    font-family: arial,sans-serif;
+
+}
+
